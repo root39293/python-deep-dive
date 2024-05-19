@@ -5,17 +5,14 @@ Welcome to the **Python Deep Dive** repository! This repository contains Jupyter
 ## Contents
 
 - **Basic Syntax and Concepts**: Learn variables, data types, control flow, functions, modules, and python advanced concepts.
-- **Detailed Explanations**: In-depth descriptions and examples for each topic.
 - **Summary Notebook**: A concise summary of Python basics for quick reference.
 
 ## Getting Started
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/python_deep_dive.git
+   git clone https://github.com/root39293/python-deep-dive
    ```
-2. **Open Jupyter Notebooks**:
-   ```bash
-   cd python_deep_dive
-   jupyter notebook
-   ```
+
+2. Start the Shell!
+   in your env, just start shell in .ipynb file
