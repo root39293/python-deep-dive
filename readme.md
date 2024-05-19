@@ -14,5 +14,5 @@ Welcome to the **Python Deep Dive** repository! This repository contains Jupyter
    git clone https://github.com/root39293/python-deep-dive
    ```
 
-2. Start the Shell!
-   in your env, just start shell in .ipynb file
+2. **Start the Shell!**
+   - in your env, just start shell in .ipynb file
