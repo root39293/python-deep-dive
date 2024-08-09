@@ -1,6 +1,6 @@
 # Python Deep Dive
 
-Welcome to the **Python Deep Dive** repository! This repository contains Jupyter Notebooks (`.ipynb` files) to help you learn the basics of Python programming.
+This repository contains Jupyter Notebooks (`.ipynb` files) to help you learn the basics of Python programming.
 
 ## Contents
 
